@@ -1,4 +1,4 @@
-# turkey_vs_spain_project
+# Democracia y economía en el Mediterráneo casos comparados de Turquía y España
 This project was based on an exercise  of data mining and cleaning, with the comparison of Turkey and Spain by their economies.
 
 
